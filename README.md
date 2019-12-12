@@ -173,6 +173,13 @@ vCard.workAddress.stateProvince = 'CA';
 vCard.workAddress.postalCode = '54321';
 vCard.workAddress.countryRegion = 'United States of America';
 
+vCard.otherAddress.label = 'Work Address';
+vCard.otherAddress.street = '123 Corporate Loop\nSuite 500';
+vCard.otherAddress.city = 'Los Angeles';
+vCard.otherAddress.stateProvince = 'CA';
+vCard.otherAddress.postalCode = '54321';
+vCard.otherAddress.countryRegion = 'United States of America';
+
 //set social media URLs
 vCard.socialUrls['facebook'] = 'https://...';
 vCard.socialUrls['linkedIn'] = 'https://...';
